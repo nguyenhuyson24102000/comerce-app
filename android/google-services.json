@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481688168293",
+    "project_id": "shose-commerce",
+    "storage_bucket": "shose-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481688168293:android:798ebb698cf89c7724638c",
+        "android_client_info": {
+          "package_name": "com.example.shose_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481688168293-lqet696r0qurf9bekrlbbv9nqlil0kft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SMqeohorAxRSd1qtV8mXCKz4rDAL04k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481688168293-lqet696r0qurf9bekrlbbv9nqlil0kft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
